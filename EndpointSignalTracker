@@ -1,0 +1,23 @@
+
+---
+
+### **2. 21_EndpointSignalTracker**  
+**Description:**  
+Monitors a group of APIs and logs availability, latency, and failures in real time.
+
+#### **README.md**
+```markdown
+# EndpointSignalTracker - Uptime and Latency Logger
+
+EndpointSignalTracker gives fast diagnostics across all your public or internal APIs.
+
+## Features
+- Logs status + response time  
+- Retry and timeout support  
+- Optional JSON report  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_EndpointSignalTracker.git
+cd 21_EndpointSignalTracker
+python monitor.py
