@@ -1,0 +1,23 @@
+
+---
+
+### **3. 21_LogClarityEngine**  
+**Description:**  
+Finds high-frequency patterns and anomalies in system and app logs.
+
+#### **README.md**
+```markdown
+# LogClarityEngine - Pattern Extraction from Logs
+
+LogClarityEngine filters out the noise and surfaces the most common or unusual events in any log file.
+
+## Features
+- Frequency-based analysis  
+- Timestamp burst detection  
+- Custom keyword scanning  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LogClarityEngine.git
+cd 21_LogClarityEngine
+python analyze.py /var/log/syslog
