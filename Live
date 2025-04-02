@@ -1,0 +1,23 @@
+
+---
+
+### **4. 21_LiveMetricCanvas**  
+**Description:**  
+A real-time visualization tool for plotting incoming numeric data streams.
+
+#### **README.md**
+```markdown
+# LiveMetricCanvas - Real-Time Data Plot Tool
+
+LiveMetricCanvas helps visualize simulations, sensor input, or API metrics as live, scrollable line charts.
+
+## Features
+- Real-time updates  
+- Smooth line animation  
+- Simple and clean UI  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LiveMetricCanvas.git
+cd 21_LiveMetricCanvas
+python visualize.py
